@@ -95,7 +95,7 @@ git clone https://github.com/MuskanSoni-Code/TMDB.git
 ### Go to the Project Folder
 
 ```bash
-cd TMDB
+cd TMDB_Clone2  
 ```
 
 ### Install Dependencies
